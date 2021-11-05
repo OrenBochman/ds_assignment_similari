@@ -1,0 +1,2 @@
+Machine learning fund optimization system and optimization method thereof
+The invention discloses a machine learning fund optimization system and a machine learning fund optimization method. The method includes: step1, forming a data for training, step 2: performing machinelearning model training and evaluation. Through the training data, machine learning model training and evaluation, the ability of fund managers to obtain returns and control risks in different marketconditions is realized.

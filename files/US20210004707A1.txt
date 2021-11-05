@@ -1,0 +1,2 @@
+QUANTUM PULSE OPTIMIZATION USING MACHINE LEARNING
+Techniques for facilitating quantum pulse optimization using machine learning are provided. In one example, a system includes a classical processor and a quantum processor. The classical processor employs a quantum pulse optimizer to generate a quantum pulse based on a machine learning technique associated with one or more quantum computing processes. The quantum processor executes a quantum computing process based on the quantum pulse.

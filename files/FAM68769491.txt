@@ -1,0 +1,2 @@
+REAL-TIME OPTIMIZATION OF COMPUTER-IMPLEMENTED APPLICATION OPERATIONS USING MACHINE LEARNING TECHNIQUE
+Various aspects described or referenced herein are directed to different methods, systems, and computer program products for facilitating real-time optimization of computer-implemented application operations using machine learning techniques.

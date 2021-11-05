@@ -1,0 +1,2 @@
+MODEL OPTIMIZATION AND DATA ANALYSIS USING MACHINE LEARNING TECHNIQUES
+Disclosed herein are platforms, systems, devices, methods and media for model optimization and data analysis using machine learning. Input data can be processed and analyzed to identify relevant discriminating features, which can be modeled using a plurality of machine learning models. A computing device can be configured with one or more optimized models for categorizing input data.
